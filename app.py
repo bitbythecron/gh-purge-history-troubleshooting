@@ -1,3 +1,3 @@
-string x = "Hello, version control!"
+string y = "Hello, version control!"
 
-print(x)
+print(y)
